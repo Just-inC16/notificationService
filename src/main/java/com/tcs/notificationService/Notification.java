@@ -19,5 +19,4 @@ public class Notification {
 	@GeneratedValue(strategy = GenerationType.IDENTITY)
 	private Long userId;
 	private String message;
-	// Getters and Setters
 }
